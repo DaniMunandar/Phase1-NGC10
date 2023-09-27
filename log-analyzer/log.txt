@@ -1,0 +1,3 @@
+2023-07-25 10:30:22 [INFO] This is an informational message.
+2023-07-25 10:31:15 [ERROR] An error occured while processing the request.
+2023-07-25 10:32:05 [DEBUG] Processing request whit ID: 12345
